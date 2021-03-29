@@ -1,0 +1,5 @@
+var x=45;
+if(x%7==0)
+{
+  console.log(true);
+}
